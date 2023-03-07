@@ -1,0 +1,8 @@
+// ----------------------------------------------------------------------
+
+const account = {
+  displayName: 'UOG TMS',
+  email: 'zeshanlodhi24@gmail.com',
+  photoURL: '/static/mock-images/avatars/avatar_default.jpg',
+};
+export default account;
